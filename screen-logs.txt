@@ -54,48 +54,48 @@ Not in terminal, reprint now using normal build-in print function.
                                                                              ::GetAtt
 [S3: -> ] s3://tcat-c0184e50aac55eb880532968aa33eaf0-eu-central-1/ps-workshop/screen-logs.txt
 [S3: -> ] s3://tcat-c0184e50aac55eb880532968aa33eaf0-eu-central-1/ps-workshop/templates/workshop.template.yaml
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: CREATE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: CREATE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: CREATE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: CREATE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: CREATE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: CREATE_IN_PROGRESS
-[INFO   ] : ┏ stack Ⓜ tCaT-default-9dfdb5
+[INFO   ] : ┏ stack Ⓜ tCaT-default-2b6a5c
 [INFO   ] : ┣ region: eu-central-1
 [INFO   ] : ┗ status: CREATE_FAILED 
-[INFO   ] : Reporting on arn:aws:cloudformation:eu-central-1:017300158866:stack/tCaT-default-9dfdb5/779f4170-c7e4-11ed-beb5-0a3fa5f84da4
-[INFO   ] : Deleting stack: arn:aws:cloudformation:eu-central-1:017300158866:stack/tCaT-default-9dfdb5/779f4170-c7e4-11ed-beb5-0a3fa5f84da4
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+[INFO   ] : Reporting on arn:aws:cloudformation:eu-central-1:017300158866:stack/tCaT-default-2b6a5c/33c00600-c7f9-11ed-909a-027d3c15a50a
+[INFO   ] : Deleting stack: arn:aws:cloudformation:eu-central-1:017300158866:stack/tCaT-default-2b6a5c/33c00600-c7f9-11ed-909a-027d3c15a50a
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: DELETE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: DELETE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: DELETE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: DELETE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: DELETE_IN_PROGRESS
-         ┏ stack Ⓜ tCaT-default-9dfdb5
+         ┏ stack Ⓜ tCaT-default-2b6a5c
          ┣ region: eu-central-1
          ┗ status: DELETE_IN_PROGRESS
-[INFO   ] : ┏ stack Ⓜ tCaT-default-9dfdb5
+[INFO   ] : ┏ stack Ⓜ tCaT-default-2b6a5c
 [INFO   ] : ┣ region: eu-central-1
 [INFO   ] : ┗ status: OUT_OF_ORDER_EVENT 
-[ERROR  ] : One or more stacks failed to create: {'arn:aws:cloudformation:eu-central-1:017300158866:stack/tCaT-default-9dfdb5/779f4170-c7e4-11ed-beb5-0a3fa5f84da4': 'COMPLETE event not detected. Potential out-of-band action against the stack.'}
+[ERROR  ] : One or more stacks failed to create: {'arn:aws:cloudformation:eu-central-1:017300158866:stack/tCaT-default-2b6a5c/33c00600-c7f9-11ed-909a-027d3c15a50a': 'COMPLETE event not detected. Potential out-of-band action against the stack.'}

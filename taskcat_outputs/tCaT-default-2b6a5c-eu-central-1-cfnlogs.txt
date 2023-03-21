@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: eu-central-1
+StackName: tCaT-default-2b6a5c
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value quickstart for parameter name
+KeyPairName does not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId    ResourceStatusReason
+--------------------------------  ------------------  --------------------------  -------------------  -----------------------------------------------------------------------------------------------------
+2023-03-21 15:01:08.167000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-default-2b6a5c  Parameter validation failed: parameter value quickstart for parameter name KeyPairName does not exist
+2023-03-21 15:01:05.226000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-default-2b6a5c  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Tuesday, 21. March 2023 03:02PM
+-----------------------------------------------------------------------------
+

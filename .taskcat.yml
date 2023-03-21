@@ -13,10 +13,11 @@ tests:
     template: ./templates/main.template.yaml
     regions:
     - eu-central-1
+
     parameters:
       AvailabilityZones: "$[taskcat_genaz_2]"
       EmailAddress: gokhul@amazon.com
-      KeyPairName: "quickstart"
+      KeyPairName: quickstart
       WebserverCIDR: "0.0.0.0/0"
       QSS3KeyPrefix: "ps-workshop/"
       QSS3BucketRegion: "$[taskcat_current_region]"
