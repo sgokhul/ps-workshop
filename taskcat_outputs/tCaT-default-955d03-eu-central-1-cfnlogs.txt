@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Region: eu-central-1
+StackName: tCaT-default-955d03
+*****************************************************************************
+ResourceStatusReason:  
+Parameter validation failed: parameter value quickstart.pem for parameter name
+KeyPairName does not exist
+*****************************************************************************
+*****************************************************************************
+Events:  
+TimeStamp                         ResourceStatus      ResourceType                LogicalResourceId    ResourceStatusReason
+--------------------------------  ------------------  --------------------------  -------------------  ---------------------------------------------------------------------------------------------------------
+2023-03-17 17:02:10.651000+00:00  CREATE_FAILED       AWS::CloudFormation::Stack  tCaT-default-955d03  Parameter validation failed: parameter value quickstart.pem for parameter name KeyPairName does not exist
+2023-03-17 17:02:08.596000+00:00  CREATE_IN_PROGRESS  AWS::CloudFormation::Stack  tCaT-default-955d03  User Initiated
+*****************************************************************************
+-----------------------------------------------------------------------------
+Tested on: Friday, 17. March 2023 05:03PM
+-----------------------------------------------------------------------------
+
